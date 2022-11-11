@@ -2,7 +2,7 @@
 
 Weather Vacation Map
 
-![image](https://github.com/RodrigoCR25/World_Weather_Analysis/blob/main/Weather_travel_map.png)
+![image](https://github.com/RodrigoCR25/World_Weather_Analysis/blob/main/Weather_vacation_map.png)
 
 Weather Travel Map
 
